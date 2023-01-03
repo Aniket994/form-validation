@@ -1,0 +1,49 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "fname": "Walter White",
+      "lname": "White",
+      "email": "rs@gmail.com",
+      "mobile": "9876543212",
+      "address1": "Marathalli",
+      "address2": "kundanhalli",
+      "state": "Delhi",
+      "country": "India",
+      "zipcode": 187654
+    },
+    {
+      "fname": "Ahuja",
+      "lname": "singh",
+      "email": "r@gmail.com",
+      "mobile": "9870000671",
+      "address1": "bengaluru, sai temple road",
+      "zipcode": "500002",
+      "country": "Guinea",
+      "state": "Bar Municipality",
+      "id": 4
+    },
+    {
+      "fname": "Sagar",
+      "lname": "singh",
+      "email": "rahul@gmail.com",
+      "mobile": "6789098765",
+      "address1": "sasaram",
+      "zipcode": "678905",
+      "country": "India",
+      "state": "punjab",
+      "id": 5
+    },
+    {
+      "fname": "Aniket",
+      "lname": "Barman",
+      "email": "aneek99@gmail.com",
+      "mobile": "35547532444",
+      "address1": "3dgvdgdgdgvx",
+      "zipcode": "235356436",
+      "country": "Andorra",
+      "state": "Gambela Region",
+      "id": 6
+    }
+  ]
+}
